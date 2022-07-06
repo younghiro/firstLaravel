@@ -14,7 +14,7 @@
             <div class="row">
                 <!-- Blog entries-->
                 <div class="col-lg-12">
-
+                    <p class="lead mb-0"></p>
                 </div>
             </div>
         </div>
